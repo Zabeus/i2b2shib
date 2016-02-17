@@ -1,0 +1,1 @@
+i2b2Shib was created to allow end users at collaborating institutions access to a single i2b2 instance without the need to create new usernames and passwords for the users.
